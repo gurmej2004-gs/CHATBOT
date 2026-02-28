@@ -2,7 +2,12 @@
 
 > A conversational chatbot built with Python, HTML, CSS & JSON — designed to automate repetitive user queries with structured rule-based logic.
 
+![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-35%25-orange?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-35%25-blue?logo=css3&logoColor=white)
+![JSON](https://img.shields.io/badge/Knowledge_Base-JSON-yellow)
 
+---
 
 ## 📌 Overview
 
@@ -58,8 +63,34 @@ CHATBOT/
 └── README.md                # Project documentation
 ```
 
+---
 
+## 🚀 Getting Started
 
+### Prerequisites
+
+```bash
+pip install flask
+```
+
+### Run the Chatbot
+
+```bash
+# Clone the repository
+git clone https://github.com/gurmej2004-gs/CHATBOT.git
+cd CHATBOT
+
+# Start the Flask server
+python main.py
+```
+
+Then open your browser and navigate to:
+
+```
+http://127.0.0.1:5000
+```
+
+---
 
 ## 🧩 How It Works
 
