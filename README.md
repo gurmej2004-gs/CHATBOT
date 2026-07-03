@@ -140,10 +140,12 @@ The chatbot uses `difflib.get_close_matches()` with a 60% cutoff for fuzzy match
 
 ---
 
-## � Important Links
+## 🔗 Important Links
 
+- **🌐 Live Chatbot:** https://chatbots-tbaa.onrender.com
 - **ERP Portal:** https://student.gehu.ac.in
 - **Department Website:** http://btechcsegehu.in/
+- **GitHub Repository:** https://github.com/gurmej2004-gs/CHATBOT
 
 ---
 
