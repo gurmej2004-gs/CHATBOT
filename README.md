@@ -190,9 +190,5 @@ Contributions are welcome! Feel free to:
 
 ---
 
-## 📧 Contact
 
-For questions or suggestions about this chatbot, please contact the B.Tech CSE department at Graphic Era Hill University.
-
----
 
